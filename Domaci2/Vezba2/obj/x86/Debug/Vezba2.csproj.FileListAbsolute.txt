@@ -1,0 +1,5 @@
+E:\fax\Treca_godina\Drugi_semestar\projektovanje_softvera\Vezba2\Vezba2\bin\Debug\Vezba2.exe
+E:\fax\Treca_godina\Drugi_semestar\projektovanje_softvera\Vezba2\Vezba2\bin\Debug\Vezba2.pdb
+E:\fax\Treca_godina\Drugi_semestar\projektovanje_softvera\Vezba2\Vezba2\obj\x86\Debug\Vezba2.exe
+E:\fax\Treca_godina\Drugi_semestar\projektovanje_softvera\Vezba2\Vezba2\obj\x86\Debug\Vezba2.pdb
+E:\fax\Treca_godina\Drugi_semestar\projektovanje_softvera\Vezba2\Vezba2\obj\x86\Debug\Vezba2.csprojResolveAssemblyReference.cache

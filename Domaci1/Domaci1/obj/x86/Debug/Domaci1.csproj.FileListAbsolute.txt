@@ -6,3 +6,5 @@ E:\fax\Treca_godina\Drugi_semestar\projektovanje_softvera\Domaci1\Domaci1\obj\x8
 E:\fax\Treca_godina\Drugi_semestar\projektovanje_softvera\Domaci1\Domaci1\obj\x86\Debug\Domaci1.pdb
 E:\fax\Treca_godina\Drugi_semestar\projektovanje_softvera\Domaci1\Domaci1\bin\Debug\Domaci1.exe
 E:\fax\Treca_godina\Drugi_semestar\projektovanje_softvera\Domaci1\Domaci1\bin\Debug\Domaci1.pdb
+C:\Users\Dara\Desktop\drus_domaci\drus_sl5-2014\Domaci1\Domaci1\obj\x86\Debug\Domaci1.exe
+C:\Users\Dara\Desktop\drus_domaci\drus_sl5-2014\Domaci1\Domaci1\obj\x86\Debug\Domaci1.pdb
